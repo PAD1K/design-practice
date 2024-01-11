@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: e1fcf594ba7161f418131f2910dbbd78
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: THEDONUTV21_Frame_0
+    originalName: 
+    pivot: {x: 0.51219517, y: -0.064935066}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 82
+      height: 77
+    spriteID: 7ec9dd48cab0e74459bcca47a763f627
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: THEDONUTV21_Frame_1
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.12328768}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 72
+      height: 73
+    spriteID: b4faa219c370b8042a052164a358ee47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: THEDONUTV21_Frame_2
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.15492958}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 336
+      width: 68
+      height: 71
+    spriteID: 8a4c88bfb286c544f967a51ab9b5fede
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 336}
+  - name: THEDONUTV21_Frame_15
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.15492958}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 415
+      width: 68
+      height: 71
+    spriteID: cbd7284f066f70d4f9f38b2cf568d7f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 415}
+  - name: THEDONUTV21_Frame_16
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.12328768}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 255
+      width: 72
+      height: 73
+    spriteID: 1e5209c7016c4e244800df0e37fbfd7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 255}
+  - name: THEDONUTV21_Frame_17
+    originalName: 
+    pivot: {x: 0.51219517, y: -0.064935066}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 89
+      width: 82
+      height: 77
+    spriteID: ccd4459aa4c978649af368bdc374e12f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 89}
+  - name: THEDONUTV21_Frame_3
+    originalName: 
+    pivot: {x: 0.5522388, y: -0.20588236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 4
+      width: 67
+      height: 68
+    spriteID: 02f69e7e12404ab47b61237b165d38a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 4}
+  - name: THEDONUTV21_Frame_4
+    originalName: 
+    pivot: {x: 0.5538462, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 156
+      width: 65
+      height: 67
+    spriteID: 7bdd510ec6d452644a4d63fb865d3dce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 156}
+  - name: THEDONUTV21_Frame_5
+    originalName: 
+    pivot: {x: 0.55737704, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 306
+      width: 61
+      height: 67
+    spriteID: f96bbb21f0e9d80439a212a53b7b784e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 306}
+  - name: THEDONUTV21_Frame_6
+    originalName: 
+    pivot: {x: 0.559322, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 229
+      width: 59
+      height: 64
+    spriteID: 23f6befb983f80240be5c19d6ea84aeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 229}
+  - name: THEDONUTV21_Frame_7
+    originalName: 
+    pivot: {x: 0.54098356, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 381
+      width: 61
+      height: 67
+    spriteID: 5990a2677d18aba46b73c688c5528b29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 381}
+  - name: THEDONUTV21_Frame_8
+    originalName: 
+    pivot: {x: 0.559322, y: -0.20588236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 79
+      width: 59
+      height: 68
+    spriteID: f8f1803980dc27b4d930dd998c1a0adf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 79}
+  - name: THEDONUTV21_Frame_9
+    originalName: 
+    pivot: {x: 0.56666666, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 155
+      width: 60
+      height: 66
+    spriteID: 5223e8f2bc8db6b42a6bc9e785fd3eac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 155}
+  - name: THEDONUTV21_Frame_10
+    originalName: 
+    pivot: {x: 0.559322, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 301
+      width: 59
+      height: 64
+    spriteID: 787107d61ff7c9744aa142b9f695b55c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 301}
+  - name: THEDONUTV21_Frame_11
+    originalName: 
+    pivot: {x: 0.559322, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 373
+      width: 59
+      height: 64
+    spriteID: d275afc73a9e505429d3b7ef7d09beff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 373}
+  - name: THEDONUTV21_Frame_12
+    originalName: 
+    pivot: {x: 0.55737704, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 4
+      width: 61
+      height: 67
+    spriteID: 02b018e4db56a9d4699a2809633122ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 4}
+  - name: THEDONUTV21_Frame_13
+    originalName: 
+    pivot: {x: 0.5538462, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 231
+      width: 65
+      height: 67
+    spriteID: 6097f0d4d73bca24ba1010ca23fe4640
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 231}
+  - name: THEDONUTV21_Frame_14
+    originalName: 
+    pivot: {x: 0.5522388, y: -0.20588236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 80
+      width: 67
+      height: 68
+    spriteID: fe074c89a58b47540bbe262017efc76e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 80}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 519736214
+    name: THEDONUTV21
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: THEDONUTV21_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 5
+        width: 82
+        height: 77
+      spriteId: 7ec9dd48cab0e74459bcca47a763f627
+    - name: THEDONUTV21_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 11
+        y: 9
+        width: 72
+        height: 73
+      spriteId: b4faa219c370b8042a052164a358ee47
+    - name: THEDONUTV21_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 12
+        y: 11
+        width: 68
+        height: 71
+      spriteId: 8a4c88bfb286c544f967a51ab9b5fede
+    - name: THEDONUTV21_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 12
+        y: 11
+        width: 68
+        height: 71
+      spriteId: cbd7284f066f70d4f9f38b2cf568d7f1
+    - name: THEDONUTV21_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 11
+        y: 9
+        width: 72
+        height: 73
+      spriteId: 1e5209c7016c4e244800df0e37fbfd7c
+    - name: THEDONUTV21_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 8
+        y: 5
+        width: 82
+        height: 77
+      spriteId: ccd4459aa4c978649af368bdc374e12f
+    - name: THEDONUTV21_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 13
+        y: 14
+        width: 67
+        height: 68
+      spriteId: 02f69e7e12404ab47b61237b165d38a7
+    - name: THEDONUTV21_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 14
+        y: 15
+        width: 65
+        height: 67
+      spriteId: 7bdd510ec6d452644a4d63fb865d3dce
+    - name: THEDONUTV21_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 15
+        width: 61
+        height: 67
+      spriteId: f96bbb21f0e9d80439a212a53b7b784e
+    - name: THEDONUTV21_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 17
+        y: 18
+        width: 59
+        height: 64
+      spriteId: 23f6befb983f80240be5c19d6ea84aeb
+    - name: THEDONUTV21_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 17
+        y: 15
+        width: 61
+        height: 67
+      spriteId: 5990a2677d18aba46b73c688c5528b29
+    - name: THEDONUTV21_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 17
+        y: 14
+        width: 59
+        height: 68
+      spriteId: f8f1803980dc27b4d930dd998c1a0adf
+    - name: THEDONUTV21_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 16
+        y: 16
+        width: 60
+        height: 66
+      spriteId: 5223e8f2bc8db6b42a6bc9e785fd3eac
+    - name: THEDONUTV21_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 17
+        y: 18
+        width: 59
+        height: 64
+      spriteId: 787107d61ff7c9744aa142b9f695b55c
+    - name: THEDONUTV21_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 17
+        y: 18
+        width: 59
+        height: 64
+      spriteId: d275afc73a9e505429d3b7ef7d09beff
+    - name: THEDONUTV21_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 16
+        y: 15
+        width: 61
+        height: 67
+      spriteId: 02b018e4db56a9d4699a2809633122ca
+    - name: THEDONUTV21_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 14
+        y: 15
+        width: 65
+        height: 67
+      spriteId: 6097f0d4d73bca24ba1010ca23fe4640
+    - name: THEDONUTV21_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 13
+        y: 14
+        width: 67
+        height: 68
+      spriteId: fe074c89a58b47540bbe262017efc76e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}
