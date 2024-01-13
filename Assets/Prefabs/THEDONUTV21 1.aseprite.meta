@@ -2,7 +2,22 @@ fileFormatVersion: 2
 guid: a79cb1e9a5d177a45aa73ecf977eadaf
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: circle
+    second: {fileID: 7400000, guid: 985cd9b6688bfe6408ed8faa6beb8335, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: down
+    second: {fileID: 7400000, guid: c83099cc38a47ef4f8135b502778cc47, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: up
+    second: {fileID: 7400000, guid: 5114062ff54eaf64a95c660d25eb51a2, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -95,7 +110,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638407026572462442
+  platformSettingsDirtyTick: 638407548280243385
   textureAssetName: 
   singleSpriteImportData:
   - name: 
