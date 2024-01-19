@@ -78,7 +78,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Segments: 5
-    - _progress: 0.857
+    - _progress: 1
     m_Colors:
     - _HeadColor: {r: 38.00839, g: 30.631233, b: 25.404207, a: 0}
   m_BuildTextureStacks: []
